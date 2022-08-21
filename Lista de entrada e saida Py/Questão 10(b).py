@@ -1,0 +1,6 @@
+N1 = float(input("Digite a primeira nota do Aluno: "))
+N2 = float(input("Digite a segunda nota do Aluno: "))
+N3 = float(input("Digite a terceira nota do Aluno: "))
+N4 = float(input("Digite a quarta nota do Aluno: "))
+Media = 4/((1/N1)+(1/N2)+(1/N3)+(1/N4))
+print(f"A média Harmônica é {Media}")
